@@ -44,5 +44,5 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 - In case of vulnerabilities.
 
-[0.0.1]: https://github.com/Boutros-Lab-SBP/template-base/compare/v1.0.0...v0.0.1
-[1.0.0]: https://github.com/Boutros-Lab-SBP/template-base/releases/tag/v1.0.0
+[0.0.1]: https://github.com/TheBoutrosLab/template-base/compare/v1.0.0...v0.0.1
+[1.0.0]: https://github.com/TheBoutrosLab/template-base/releases/tag/v1.0.0

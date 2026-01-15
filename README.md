@@ -1,6 +1,6 @@
 # template-base
 
-[![GitHub release](https://img.shields.io/github/v/release/Boutros-Lab-SBP/template-base)](https://github.com/Boutros-Lab-SBP/template-base/actions/workflows/prepare-release.yaml)
+[![GitHub release](https://img.shields.io/github/v/release/TheBoutrosLab/template-base)](https://github.com/TheBoutrosLab/template-base/actions/workflows/prepare-release.yaml)
 
 Template Repository for the Boutros Lab general repos. Describe a simple overview of use/purpose here.
 
